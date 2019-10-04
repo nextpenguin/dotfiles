@@ -1,0 +1,14 @@
+{
+    "git.ignoreLegacyWarning": true,
+    "window.zoomLevel": 1,
+    "files.associations": {
+        "*.tpl": "html",
+        "*.gtpl": "html",
+        "*.tmpl": "html"
+    },
+    "go.autocompleteUnimportedPackages": true,
+    "window.restoreWindows": "all",
+    "window.newWindowDimensions": "inherit",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "'Source Code Pro', Consolas, 'Courier New', monospace"
+}
