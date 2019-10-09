@@ -1,3 +1,27 @@
 {
+    // common
+    "window.zoomLevel": 1,
+    "window.newWindowDimensions": "inherit",
+    "window.restoreWindows": "all",
+    "files.associations": {
+        "*.tpl": "html",
+        "*.gtpl": "html",
+        "*.tmpl": "html"
+    },
+
+    // editor 
+    "editor.fontSize": 13,
+    "editor.fontFamily": "'Source Code Pro', Consolas, 'Courier New', monospace",
+    "git.autofetch": true,
+
+    // golang
+    "go.autocompleteUnimportedPackages": true,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+
+    // git
+    "git.ignoreLegacyWarning": true,
+
+    // python
     "python.pythonPath": "/usr/local/bin/python"
 }
